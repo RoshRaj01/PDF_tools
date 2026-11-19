@@ -1,0 +1,30 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest / testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
